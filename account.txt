@@ -1,0 +1,2 @@
+Eugene,Admin,admin
+John,Sales Manager,123456
